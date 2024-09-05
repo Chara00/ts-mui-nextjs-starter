@@ -5,21 +5,7 @@ sections:
   - type: CardsSection
     title: ''
     subtitle: ''
-    items:
-      - type: Card
-        title: ''
-        text: ''
-        image:
-          type: Image
-          url: /images/nextjs.svg
-          altText: First item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+    items: []
   - type: HeroSection
     title: We Make Websites
     subtitle: Quality. Efficiency. Ease.
