@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Web Development
+    title: We Make Websites
     subtitle: Quality. Efficiency. Ease.
     text: >
       We understand that your website is often the first impression customers
