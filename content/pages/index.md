@@ -40,7 +40,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Read the Docs
+            label: HELo
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Efficiency.
