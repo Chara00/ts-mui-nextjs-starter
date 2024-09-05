@@ -47,7 +47,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Efficiency
+        title: Efficiency.
         image:
           type: Image
           url: /images/mui-5.svg
