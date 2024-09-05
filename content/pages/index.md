@@ -46,10 +46,7 @@ sections:
           concept to the final launch, we focus on every detail to make sure
           your website stands out in the digital landscape.
 
-        actions:
-          - type: Button
-            label: HELo
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Efficiency.
         image:
