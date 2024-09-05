@@ -5,10 +5,7 @@ sections:
   - type: HeroSection
     title: Web development made easy.
     subtitle: We offer affordable and quality sites.
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: "\_We understand that your website is often the first impression customers have of your business. Our team of skilled designers and developers work closely with you to create a visually appealing and user-friendly website that reflects your brand's identity.\n\n"
     actions:
       - type: Button
         label: 'Receive a Quote '
