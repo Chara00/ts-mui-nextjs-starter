@@ -37,8 +37,14 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: |+
-          UYYOYOYOYOY
+        text: >+
+          At Hill Development LLC, quality is our hallmark. We pride ourselves
+          on delivering top-notch websites that not only look great but also
+          perform exceptionally well. Our team of skilled designers and
+          developers meticulously craft each site to meet the highest standards,
+          ensuring a seamless and engaging user experience. From the initial
+          concept to the final launch, we focus on every detail to make sure
+          your website stands out in the digital landscape.
 
         actions:
           - type: Button
