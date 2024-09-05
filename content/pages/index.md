@@ -71,8 +71,16 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: |
-          sdadsadsadsa
+        text: >+
+          We believe that **managing and owning** a website should be **easy**.
+          At *Hill Development*, **we take care of everything** for you, from
+          design and development to ongoing maintenance and updates. Our
+          user-friendly solutions are designed to make your life easier, so you
+          can concentrate on what you do best. With our services, we
+          **guarantee** you will have peace of mind knowing that your website is
+          in capable hands, **always up-to-date** and performing at its
+          **best**.
+
         actions:
           - type: Button
             label: ''
