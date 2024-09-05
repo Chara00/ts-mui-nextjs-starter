@@ -71,7 +71,8 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: ''
+        text: |
+          sdadsadsadsa
         actions:
           - type: Button
             label: >-
