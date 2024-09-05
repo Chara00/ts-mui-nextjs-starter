@@ -25,7 +25,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Gvng Fluent Black.png
+      url: '/images/Logo #1.png'
       altText: Hero section image
   - type: CardsSection
     title: Why Us?
