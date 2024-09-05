@@ -75,14 +75,7 @@ sections:
           sdadsadsadsa
         actions:
           - type: Button
-            label: >-
-              We believe that managing a website should be hassle-free. At Hill
-              Development LLC, we take care of everything for you, from design
-              and development to ongoing maintenance and updates. Our
-              user-friendly solutions are designed to make your life easier, so
-              you can concentrate on what you do best. With our comprehensive
-              services, you'll have peace of mind knowing that your website is
-              in capable hands, always up-to-date and performing at its best.
+            label: ''
             url: ''
             size: small
 ---
