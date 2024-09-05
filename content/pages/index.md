@@ -65,10 +65,7 @@ sections:
           that your digital needs are handled with the utmost precision and
           efficiency.
 
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Ease.
         image:
