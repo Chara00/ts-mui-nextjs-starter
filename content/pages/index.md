@@ -37,7 +37,9 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: ''
+        text: |+
+          UYYOYOYOYOY
+
         actions:
           - type: Button
             label: HELo
