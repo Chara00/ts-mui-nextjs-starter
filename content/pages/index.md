@@ -13,13 +13,7 @@ sections:
           type: Image
           url: /images/Big font logo Webdev.png
           altText: Item image
-        actions:
-          - type: Button
-            label: Learn More
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
   - type: HeroSection
     title: We Make Websites
     subtitle: Quality. Efficiency. Ease.
