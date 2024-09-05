@@ -26,7 +26,6 @@ sections:
     image:
       type: Image
       altText: Hero section image
-      url: /images/Big font logo Webdev.png
   - type: CardsSection
     title: Why Us?
     subtitle: Section subtitle here
