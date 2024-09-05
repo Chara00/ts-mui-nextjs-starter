@@ -25,7 +25,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Gvng Fluent Black.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
