@@ -28,7 +28,7 @@ sections:
       url: /images/Gvng Fluent Black.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Why Us?
     subtitle: Section subtitle here
     items:
       - type: Card
