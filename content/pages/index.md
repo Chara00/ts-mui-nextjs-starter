@@ -5,7 +5,11 @@ sections:
   - type: HeroSection
     title: Web development made easy.
     subtitle: Quality. Efficiency. Ease.
-    text: "\_We understand that your website is often the first impression customers have of your business. Our team of skilled designers and developers work closely with you to create a visually appealing and user-friendly website that reflects your brand's identity.\n\n"
+    text: >
+      We understand that your website is often the first impression customers
+      have of your business. Our team of skilled designers and developers work
+      closely with you to create a visually appealing and user-friendly website
+      that reflects your brand's identity.
     actions:
       - type: Button
         label: 'Receive a Quote '
