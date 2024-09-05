@@ -2,6 +2,27 @@
 title: Home
 type: Page
 sections:
+  - type: HeroSection
+    title: We Make Websites
+    subtitle: Quality. Efficiency. Ease.
+    text: >
+      We understand that your website is often the first impression customers
+      have of your business. Our team of skilled designers and developers work
+      closely with you to create a visually appealing and user-friendly website
+      that reflects your brand's identity.
+    actions:
+      - type: Button
+        label: 'Receive a Quote '
+        url: ''
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: About us
+        url: 'https://docs.netlify.com/visual-editor/overview/'
+        size: large
+        variant: outlined
+        color: primary
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
@@ -57,27 +78,6 @@ sections:
             size: medium
             variant: text
             color: primary
-  - type: HeroSection
-    title: We Make Websites
-    subtitle: Quality. Efficiency. Ease.
-    text: >
-      We understand that your website is often the first impression customers
-      have of your business. Our team of skilled designers and developers work
-      closely with you to create a visually appealing and user-friendly website
-      that reflects your brand's identity.
-    actions:
-      - type: Button
-        label: 'Receive a Quote '
-        url: ''
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: About us
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
   - type: CardsSection
     title: Why Us?
     subtitle: Section subtitle here
