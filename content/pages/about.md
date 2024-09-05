@@ -3,7 +3,7 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: We are a team of young
+    title: "We are a team of young\_entrepreneurs that specialize in team work, development, and customer satisfaction"
     subtitle: This is the subtitle
     text: >
       This is **Markdown** *text*.
