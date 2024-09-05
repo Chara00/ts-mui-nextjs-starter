@@ -23,9 +23,6 @@ sections:
         size: large
         variant: outlined
         color: primary
-    image:
-      type: Image
-      altText: Hero section image
   - type: CardsSection
     title: Why Us?
     subtitle: Section subtitle here
