@@ -25,7 +25,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Hill webdev'.png
+      url: /images/Hill WebDev 1100 PX.png
       altText: Hero section image
   - type: CardsSection
     title: Why Us?
