@@ -13,7 +13,7 @@ sections:
     actions:
       - type: Button
         label: 'Receive a Quote '
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: ''
         size: large
         variant: contained
         color: primary
