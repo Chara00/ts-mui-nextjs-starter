@@ -77,4 +77,5 @@ sections:
           - type: Button
             label: Read the Docs
             url: ''
+            size: large
 ---
